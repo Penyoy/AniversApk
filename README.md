@@ -1,6 +1,6 @@
 # AniVerse — Anime Streaming Android (Kotlin)
 
-Port native Android dari `hanime-main` (Vue) dengan API `animeloversv3-api.txt`. Siap compile via GitHub Actions, minSdk 23 (Android 6.0) — naik dari 21 karena Firebase BOM 33.7.0 butuh min 23 — targetSdk 35 (Android 15).
+Port native Android darSiap compile via GitHub Actions, minSdk 23 (Android 6.0) — naik dari 21 karena Firebase BOM 33.7.0 butuh min 23 — targetSdk 35 (Android 15).
 
 ##ScreenShot
 ![gambar1](assets/Screenshot_2026-09-07-20-59-51-72.jpg)
