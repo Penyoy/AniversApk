@@ -22,7 +22,7 @@ android {
         vectorDrawables { useSupportLibrary = true }
 
         // API base bisa di-override via local.properties / BuildConfig
-        buildConfigField("String", "API_BASE", "\"https://apps.animekita.org/api/v1.2.5\"")
+        buildConfigField("String", "API_BASE", "\"https://api.wanz0.web.id/api\"")
         buildConfigField("String", "PROXY_FALLBACKS", "\"\"")
     }
 
